@@ -1,0 +1,1 @@
+#http://catalog-service/api/products can be called with service id instead of ip
